@@ -2,3 +2,6 @@ name = "Resample"
 uuid = "4852ec47-3eff-445a-8b02-8ec47ee5268a"
 authors = ["Ola Rasmus moen <ola.moen@moenmarin.no>"]
 version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"

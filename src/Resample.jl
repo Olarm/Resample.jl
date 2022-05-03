@@ -1,6 +1,6 @@
 module Resample
 
-using DataFrames, TimesDates
+using DataFrames, TimesDates, Dates
 
 export resample
 
